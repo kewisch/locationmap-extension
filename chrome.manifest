@@ -1,0 +1,4 @@
+content locationmap chrome/content/
+locale locationmap en-US chrome/locales/en-US/
+skin locationmap classic/1.0 chrome/skin/
+overlay chrome://calendar/content/calendar-event-dialog.xul chrome://locationmap/content/calendar-event-dialog.xul
